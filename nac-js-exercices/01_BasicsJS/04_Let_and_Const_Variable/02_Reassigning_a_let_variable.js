@@ -3,14 +3,12 @@
 // Reassign it to 'Alice'.
 
 // Your code here
-let variableName = 'stringValue'
+let userName = "John";
 // Reassign the 'userName' variable value
+userName = "Alice";
 
 console.log(userName);
 // Expected Output: Alice
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

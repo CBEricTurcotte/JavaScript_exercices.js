@@ -2,8 +2,8 @@
 // Use a for loop to iterate a count from 0 to 4 and log each iteration.
 
 // Your code here
-for (let variableName = 0; variableName < 5; variableName++) {
-  console.log('Iteration ' + count);
+for (let count = 0; count < 5; count++) {
+  console.log("Iteration " + count);
 }
 // Expected Output:
 // Iteration 0
@@ -11,9 +11,6 @@ for (let variableName = 0; variableName < 5; variableName++) {
 // Iteration 2
 // Iteration 3
 // Iteration 4
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

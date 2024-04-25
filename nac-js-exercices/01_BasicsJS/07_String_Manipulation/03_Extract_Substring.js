@@ -3,14 +3,11 @@
 // Extract the word 'brown' and assign it to a new variable named 'color'.
 
 // Your code here
-let variableName1 = 'stringValue'
-let variableName2 = sentence.slice(10, 15);
+let sentence = "The quick brown fox jumps over the lazy dog.";
+let color = sentence.slice(10, 15);
 
 console.log(color);
 // Expected Output: brown
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

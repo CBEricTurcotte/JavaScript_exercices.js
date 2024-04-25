@@ -3,15 +3,12 @@
 // Subtract 'numY' from 'numX' and store the result in a variable named 'difference'.
 
 // Your code here
-let variableName1 = numericValue
-let variableName2 = numericValue
-let variableName3 = numX - numY
+let numX = 20;
+let numY = 8;
+let difference = numX - numY;
 
 console.log(difference);
 // Expected Output: 12
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

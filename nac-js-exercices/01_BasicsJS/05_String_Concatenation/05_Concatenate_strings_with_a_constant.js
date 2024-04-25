@@ -3,14 +3,11 @@
 // Create a message that says 'I love visiting Paris.' by combining the constant and a string.
 
 // Your code here
-const variableName1 = 'stringValue'
-let variableName2 = 'I love visiting ' + city + '.'
+const city = "Paris";
+let visitMessage = "I love visiting " + city + ".";
 
 console.log(visitMessage);
 // Expected Output: I love visiting Paris.
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

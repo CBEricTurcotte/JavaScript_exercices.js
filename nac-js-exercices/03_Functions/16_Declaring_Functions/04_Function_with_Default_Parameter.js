@@ -3,15 +3,12 @@
 // The function should return a personalized greeting.
 
 // Your code here
-function functionName(param1, param2 = 'stringWord') {
-  return param2 + ', ' + param1 + '!';
+function greetUser(name, greeting = "Hello") {
+  return greeting + ", " + name + "!";
 }
 
-console.log(greetUser('stringName'));
+console.log(greetUser(name));
 // Expected Output: Hello, John!
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

@@ -3,15 +3,12 @@
 // Use the equal operator '==' to check if they are equal and store the result in a variable named 'isEqual'.
 
 // Your code here
-let variableName1 = numericValue1
-let variableName2 = numericValue2
-let variableName3 = numX == numY
+let numX = 10;
+let numY = 10;
+let isEqual = numX == numY;
 
 console.log(isEqual);
 // Expected Output: true
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

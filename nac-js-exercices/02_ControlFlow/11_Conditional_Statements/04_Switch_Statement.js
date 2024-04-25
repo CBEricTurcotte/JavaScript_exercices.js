@@ -4,25 +4,22 @@
 // 'It's the start of the week' if it is Monday, and 'It's almost the weekend' if it is Friday.
 
 // Your code here
-let variableName = stringValue
+let dayOfWeek = "Wednesday";
 
 switch (dayOfWeek) {
-  case 'Monday':
-    console.log('It\'s the start of the week');
+  case "Monday":
+    console.log("It's the start of the week");
     break;
-  case 'Wednesday':
-    console.log('It\'s the middle of the week');
+  case "Wednesday":
+    console.log("It's the middle of the week");
     break;
-  case 'Friday':
-    console.log('It\'s almost the weekend');
+  case "Friday":
+    console.log("It's almost the weekend");
     break;
   default:
-    console.log('It\'s a regular day');
+    console.log("It's a regular day");
 }
 // Expected Output: It's the middle of the week
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

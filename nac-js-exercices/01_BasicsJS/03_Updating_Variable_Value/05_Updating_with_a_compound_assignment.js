@@ -3,14 +3,12 @@
 // Update its value by multiplying it with 1.5 using a compound assignment.
 
 // Your code here
-let variableName = numericValue
+let totalScore = 100;
+totalScore *= 1.5;
 // Update the 'totalScore' using a compound assignment
 
 console.log(totalScore);
 // Expected Output: 150
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

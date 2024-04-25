@@ -3,14 +3,12 @@
 // Increment its value by 2.
 
 // Your code here
-let variableName = numericValue
+let counter = 10;
+counter += 2;
 // Update the variable value by incrementing it
 
 console.log(counter);
 // Expected Output: 12
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

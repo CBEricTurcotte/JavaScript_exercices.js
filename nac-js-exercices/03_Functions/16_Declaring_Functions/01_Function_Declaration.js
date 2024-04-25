@@ -2,15 +2,12 @@
 // Declare a function named 'addNumbers' that takes two parameters, 'num1' and 'num2', and returns their sum.
 
 // Your code here
-function functionName(param1, num2) {
-  return num1 + param2;
+function addNumbers(num1, num2) {
+  return num1 + num2;
 }
 
-console.log(addNumbers(2,3))
+console.log(addNumbers(2, 3));
 // Expected Output: 5
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

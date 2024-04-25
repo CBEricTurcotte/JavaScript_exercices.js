@@ -3,15 +3,12 @@
 // Use the greater than or equal to operator '>=' to check if 'priceA' is greater than or equal to 'priceB' and store the result in a variable named 'isGreaterOrEqual'.
 
 // Your code here
-let variableName1 = numericValue
-let variableName2 = numericValue
-let variableName3 = priceA >= priceB
+let priceA = 25;
+let priceB = 25;
+let isGreaterOrEqual = priceA >= priceB;
 
 console.log(isGreaterOrEqual);
 // Expected Output: true
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

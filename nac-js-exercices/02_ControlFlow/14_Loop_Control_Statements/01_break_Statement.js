@@ -3,18 +3,15 @@
 // Add a break statement to terminate the loop if the iteration is 2.
 
 // Your code here
-for (let variableName = 0; variableName < 5; variableName++) {
-  if (variableName === 2) {
+for (let variable = 0; variable < 5; variable++) {
+  if (variable === 2) {
     break;
   }
-  console.log('Iteration ' + variableName);
+  console.log("Iteration " + variable);
 }
 // Expected Output:
 // Iteration 0
 // Iteration 1
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

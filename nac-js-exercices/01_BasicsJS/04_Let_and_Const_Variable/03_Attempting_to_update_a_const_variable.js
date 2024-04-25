@@ -3,14 +3,12 @@
 // Attempt to update its value to 60.
 
 // Your code here
-const variableName = numericValue
+const totalStudents = 50;
 // Attempt to update the 'totalStudents' value
+totalStudents = "60";
 
 console.log(totalStudents);
 // Expected Output: 50
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

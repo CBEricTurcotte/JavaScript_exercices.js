@@ -3,15 +3,12 @@
 // Use the less than operator '<' to check if 'quantityA' is less than 'quantityB' and store the result in a variable named 'isLessThan'.
 
 // Your code here
-let variableName1 = numericValue
-let variableName2 = numericValue
-let variableName3 = quantityA < quantityB
+let quantityA = 7;
+let quantityB = 12;
+let isLessThan = quantityA < quantityB;
 
 console.log(isLessThan);
 // Expected Output: true
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

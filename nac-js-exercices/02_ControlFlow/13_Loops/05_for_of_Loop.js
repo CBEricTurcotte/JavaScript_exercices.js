@@ -3,10 +3,10 @@
 // Use a for...of loop to log each value.
 
 // Your code here
-const variableName = [1, 2, 3, 4, 5];
+const numbers = [1, 2, 3, 4, 5];
 
-for (const valueName of numbers) {
-  console.log('Value: ' + valueName);
+for (const value of numbers) {
+  console.log("Value: " + value);
 }
 // Expected Output:
 // Value: 1
@@ -14,9 +14,6 @@ for (const valueName of numbers) {
 // Value: 3
 // Value: 4
 // Value: 5
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

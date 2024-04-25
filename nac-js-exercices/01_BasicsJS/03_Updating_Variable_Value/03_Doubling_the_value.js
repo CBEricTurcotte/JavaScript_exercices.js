@@ -3,14 +3,12 @@
 // Double its value.
 
 // Your code here
-let variableName = numericValue
+let initialValue = 8;
+initialValue *= 2;
 // Update the variable value by doubling it
 
 console.log(initialValue);
 // Expected Output: 16
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

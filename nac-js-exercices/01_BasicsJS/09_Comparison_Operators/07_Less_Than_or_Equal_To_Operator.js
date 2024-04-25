@@ -3,15 +3,12 @@
 // Use the less than or equal to operator '<=' to check if 'countA' is less than or equal to 'countB' and store the result in a variable named 'isLessOrEqual'.
 
 // Your code here
-let variableName1 = numericValue
-let variableName2 = numericValue
-let variableName3 = countA <= countB
+let countA = 30;
+let countB = 40;
+let isLessOrEqual = countA <= countB;
 
 console.log(isLessOrEqual);
 // Expected Output: true
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

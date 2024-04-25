@@ -3,15 +3,12 @@
 // Use the not equal operator '!=' to check if they are not equal and store the result in a variable named 'isNotEqual'.
 
 // Your code here
-let variableName1 = 'stringValue'
-let variableName2 = 'stringValue'
-let variableName3 = valueA != valueB
+let valueA = "apple";
+let valueB = "orange";
+let isNotEqual = valueA != valueB;
 
 console.log(isNotEqual);
 // Expected Output: true
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

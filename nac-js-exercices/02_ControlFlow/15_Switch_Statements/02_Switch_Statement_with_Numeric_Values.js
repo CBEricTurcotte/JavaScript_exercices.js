@@ -3,25 +3,22 @@
 // Use a switch statement to log different messages based on the numeric value.
 
 // Your code here
-let variableName = numericValue;
+let number = 3;
 
 switch (number) {
   case 1:
-    console.log('The number is one.');
+    console.log("The number is one.");
     break;
   case 2:
-    console.log('The number is two.');
+    console.log("The number is two.");
     break;
   case 3:
-    console.log('The number is three.');
+    console.log("The number is three.");
     break;
   default:
-    console.log('The number is not one, two, or three.');
+    console.log("The number is not one, two, or three.");
 }
 // Expected Output: The number is three.
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

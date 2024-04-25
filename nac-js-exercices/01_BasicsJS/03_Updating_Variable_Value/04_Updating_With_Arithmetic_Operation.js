@@ -3,15 +3,14 @@
 // Update the value of 'currentValue' by adding the value of 'increment'.
 
 // Your code here
-let variableName1 = numericValue1
-let variableName2 = numericValue2
+let currentValue = 15;
+let increment = 5;
+
+currentValue += increment;
 // Update the 'currentValue' by adding 'increment'
 
 console.log(currentValue);
 // Expected Output: 20
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

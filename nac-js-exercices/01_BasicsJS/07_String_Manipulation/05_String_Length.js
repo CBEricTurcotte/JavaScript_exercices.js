@@ -3,14 +3,11 @@
 // Find and store the length of the string in a variable named 'stringLength'.
 
 // Your code here
-let variableName1 = 'stringValue'
-let variableName2 = longString.length;
+let longString = "with a lengthy text";
+let stringLength = longString.length;
 
 console.log(stringLength);
 // Expected Output: (length of the 'longString' text)
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

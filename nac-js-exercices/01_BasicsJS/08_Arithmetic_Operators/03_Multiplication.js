@@ -3,15 +3,12 @@
 // Multiply them and store the result in a variable named 'product'.
 
 // Your code here
-let variableName1 = numericValue
-let variableName2 = numericValue
-let variableName3 = numC * numD
+let numC = 5;
+let numD = 6;
+let product = numC * numD;
 
 console.log(product);
 // Expected Output: 30
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

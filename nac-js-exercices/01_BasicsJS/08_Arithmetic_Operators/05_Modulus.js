@@ -3,15 +3,12 @@
 // Find the remainder when 'dividend' is divided by 'divisor' and store the result in a variable named 'remainder'.
 
 // Your code here
-let variableName1 = numericValue
-let variableName2 = numericValue
-let variableName3 = dividend % divisor
+let dividend = 27;
+let divisor = 4;
+let remainder = dividend % divisor;
 
 console.log(remainder);
 // Expected Output: 3
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

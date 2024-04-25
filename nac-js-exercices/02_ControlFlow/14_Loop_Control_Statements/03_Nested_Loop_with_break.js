@@ -8,7 +8,7 @@ for (let variableName1 = 0; variableName1 < 3; variableName1++) {
     if (variableName1 === 2 && variableName2 === 1) {
       break;
     }
-    console.log('Row ' + row + ', Column ' + column);
+    console.log("Row " + row + ", Column " + column);
   }
 }
 // Expected Output:
@@ -16,9 +16,6 @@ for (let variableName1 = 0; variableName1 < 3; variableName1++) {
 // Row 0, Column 1
 // Row 1, Column 0
 // Row 1, Column 1
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

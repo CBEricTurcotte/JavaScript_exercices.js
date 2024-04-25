@@ -2,13 +2,10 @@
 // Declare a constant variable named 'gravity' and assign it the value 9.8.
 
 // Your code here
-const variableName = numericValue
+const gravity = 9.8;
 
 console.log(gravity);
 // Expected Output: 9.8
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

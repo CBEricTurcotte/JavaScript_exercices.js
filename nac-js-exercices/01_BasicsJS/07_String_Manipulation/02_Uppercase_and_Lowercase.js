@@ -3,17 +3,14 @@
 // Convert it to uppercase and then to lowercase.
 
 // Your code here
-let variableName1 = 'stringValue'
-let variableName2 = mixedCase.toUpperCase();
-let variableName3 = mixedCase.toLowerCase();
+let mixedCase = "JavaScript is Fun!";
+let upperCaseText = mixedCase.toUpperCase();
+let lowerCaseText = mixedCase.toLowerCase();
 
 console.log(upperCaseText);
 // Expected Output: JAVASCRIPT IS FUN!
 console.log(lowerCaseText);
 // Expected Output: javascript is fun!
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

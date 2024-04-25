@@ -2,13 +2,10 @@
 // Declare an array named 'fruits' with values 'Apple', 'Banana', and 'Orange'.
 
 // Your code here
-let variableName = ['stringName1', 'stringName2', 'stringName2'];
+let fruits = ["Apple", "Banana", "Orange"];
 
 console.log(fruits);
 // Expected Output: ['Apple', 'Banana', 'Orange']
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

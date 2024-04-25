@@ -4,15 +4,12 @@
 // Calculate the total price by multiplying these two variables.
 
 // Your code here
-let variableName1 = numericValue
-let variableName2 = numericValue
-let variableName3 = quantity * pricePerUnit
+let quantity = 5;
+let pricePerUnit = 25;
+let totalPrice = quantity * pricePerUnit;
 
 console.log(totalPrice);
 // Expected Output: 125
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

@@ -3,20 +3,17 @@
 // Add a continue statement to skip the iteration if the iteration is 2.
 
 // Your code here
-for (let variableName = 0; variableName < 5; variableName++) {
-  if (variableName === 2) {
+for (let count = 0; count < 5; count++) {
+  if (count === 2) {
     continue;
   }
-  console.log('Iteration ' + variableName);
+  console.log("Iteration " + count);
 }
 // Expected Output:
 // Iteration 0
 // Iteration 1
 // Iteration 3
 // Iteration 4
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

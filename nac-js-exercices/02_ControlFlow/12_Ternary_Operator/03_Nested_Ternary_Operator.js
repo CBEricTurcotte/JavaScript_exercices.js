@@ -4,15 +4,16 @@
 // and if not, set it to 'Good morning' if it is morning and 'Good day' otherwise.
 
 // Your code here
-let variableName1 = booleanValue
-let variableName2 = 'stringValue'
-let variableName3 = isWeekend ? 'Enjoy your weekend' : time === 'morning' ? 'Good morning' : 'Good day';
+let isWeekend = false;
+let time = "morning";
+let greeting = isWeekend
+  ? "Enjoy your weekend"
+  : time === "morning"
+  ? "Good morning"
+  : "Good day";
 
 console.log(greeting);
 // Expected Output: Good morning
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

@@ -4,19 +4,16 @@
 // 'Good' if it is greater than or equal to 70, and 'Needs Improvement' otherwise.
 
 // Your code here
-let variableName = numericValue
+let score = 75;
 
 if (score >= 90) {
-  console.log('Excellent');
+  console.log("Excellent");
 } else if (score >= 70) {
-  console.log('Good');
+  console.log("Good");
 } else {
-  console.log('Needs Improvement');
+  console.log("Needs Improvement");
 }
 // Expected Output: Good
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

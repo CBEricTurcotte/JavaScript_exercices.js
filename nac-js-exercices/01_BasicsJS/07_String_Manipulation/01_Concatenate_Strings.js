@@ -3,15 +3,12 @@
 // Concatenate them to create a variable named 'fullName'.
 
 // Your code here
-let variableName1 = 'stringValue'
-let variableName2 = 'stringValue'
-let variableName3 = firstName + ' ' + lastName
+let firstName = "John";
+let lastName = "Doe";
+let fullName = firstName + " " + lastName;
 
 console.log(fullName);
 // Expected Output: John Doe
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

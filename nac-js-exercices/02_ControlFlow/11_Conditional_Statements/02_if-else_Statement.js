@@ -3,17 +3,14 @@
 // Use an if-else statement to check if it is morning, and if so, log 'Good morning', otherwise log 'Good day'.
 
 // Your code here
-let variableName = 'stringValue'
+let timeOfDay = "morning";
 
-if (timeOfDay === 'morning') {
-  console.log('Good morning');
+if (timeOfDay === "morning") {
+  console.log("Good morning");
 } else {
-  console.log('Good day');
+  console.log("Good day");
 }
 // Expected Output: Good morning
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

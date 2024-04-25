@@ -3,15 +3,12 @@
 // Use the greater than operator '>' to check if 'lengthA' is greater than 'lengthB' and store the result in a variable named 'isGreaterThan'.
 
 // Your code here
-let variableName1 = numericValue
-let variableName2 = numericValue
-let variableName3 = lengthA > lengthB
+let lengthA = 15;
+let lengthB = 10;
+let isGreaterThan = lengthA > lengthB;
 
 console.log(isGreaterThan);
 // Expected Output: true
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

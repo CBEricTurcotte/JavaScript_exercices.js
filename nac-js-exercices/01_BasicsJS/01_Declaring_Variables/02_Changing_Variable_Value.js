@@ -3,7 +3,7 @@
 // Update the value of 'currentTemperature' to 30.
 
 // Your code here
-let variableName = 'valueName'
+let currentTemperature = 25
 
 console.log(currentTemperature);
 // Expected Output: 30

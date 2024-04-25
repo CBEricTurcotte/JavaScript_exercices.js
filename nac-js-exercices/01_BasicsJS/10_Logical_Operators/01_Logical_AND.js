@@ -3,15 +3,12 @@
 // Use the logical AND operator '&&' to check if it is both morning and a weekday. Store the result in a variable named 'isWorkingDay'.
 
 // Your code here
-let variableName1 = booleanValue
-let variableName2 = booleanValue
-let variableName3 = isMorning && isWeekday
+let isMorning = true;
+let isWeekday = false;
+let isWorkingDay = isMorning && isWeekday;
 
 console.log(isWorkingDay);
 // Expected Output: false
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

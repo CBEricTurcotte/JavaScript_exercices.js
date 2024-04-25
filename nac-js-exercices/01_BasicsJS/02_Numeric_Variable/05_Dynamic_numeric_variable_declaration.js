@@ -4,15 +4,12 @@
 // Calculate the simple interest using the formula: interest = principalAmount * interestRate.
 
 // Your code here
-let variableName1 = numericValue
-let variableName2 = numericValue
-let variableName3 = principalAmount * interestRate
+let principalAmount = 0.05;
+let interestRate = 1000;
+let interest = principalAmount * interestRate;
 
 console.log(interest);
 // Expected Output: 50
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

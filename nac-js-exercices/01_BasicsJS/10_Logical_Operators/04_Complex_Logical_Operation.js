@@ -3,16 +3,13 @@
 // Use logical operators to check if it is daytime and not the weekend or if there is a meeting. Store the result in a variable named 'canAttendMeeting'.
 
 // Your code here
-let variableName1 = booleanValue
-let variableName2 = booleanValue
-let variableName3 = booleanValue
-let variableName4 = (isDaytime && !isWeekend) || hasMeeting
+let isDaytime = true;
+let isWeekend = false;
+let hasMeeting = true;
+let canAttendMeeting = (isDaytime && !isWeekend) || hasMeeting;
 
 console.log(canAttendMeeting);
 // Expected Output: true
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

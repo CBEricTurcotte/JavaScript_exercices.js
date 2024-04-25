@@ -3,14 +3,12 @@
 // Attempt to reassign the 'color' property.
 
 // Your code here
-const variableName = {key1: objectValue1, key2: objectValue2}
+const car = { brand: "Toyota", color: "Red" };
 // Attempt to reassign the 'color' property
+const updatedCar = { ...car, color: "Blue" };
 
-console.log(car);
+console.log(updatedCar);
 // Expected Output: { brand: 'Toyota', color: 'Blue' }
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

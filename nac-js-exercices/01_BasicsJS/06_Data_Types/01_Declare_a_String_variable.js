@@ -2,13 +2,10 @@
 // Declare a variable named 'favoriteColor' and assign it the value 'blue'.
 
 // Your code here
-let variableName = 'stringValue'
+let favoriteColor = "blue";
 
 console.log(favoriteColor);
 // Expected Output: blue
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

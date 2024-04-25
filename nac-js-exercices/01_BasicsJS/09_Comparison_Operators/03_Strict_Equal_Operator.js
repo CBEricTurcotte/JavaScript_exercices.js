@@ -3,15 +3,12 @@
 // Use the strict equal operator '===' to check if they are equal in both value and type and store the result in a variable named 'isStrictEqual'.
 
 // Your code here
-let variableName1 = numericValue
-let variableName2 = 'stringValue'
-let variableName3 = numC === strNumC
+let numC = 5;
+let strNumC = "5";
+let isStrictEqual = numC === strNumC;
 
 console.log(isStrictEqual);
 // Expected Output: false
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

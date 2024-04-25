@@ -2,13 +2,10 @@
 // Declare a variable named 'isSunny' and assign it the value 'true'.
 
 // Your code here
-let variableName = booleanValue
+let isSunny = true;
 
 console.log(isSunny);
 // Expected Output: true
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

@@ -2,9 +2,9 @@
 // Use a while loop to iterate a count from 0 to 4 and log each iteration.
 
 // Your code here
-let variableName = 0;
-while (variableName < 5) {
-  console.log('Iteration ' + variableName);
+let count = 0;
+while (count < 5) {
+  console.log("Iteration " + count);
   count++;
 }
 // Expected Output:
@@ -14,9 +14,6 @@ while (variableName < 5) {
 // Iteration 3
 // Iteration 4
 
-
-
-
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 
-// node 02_ControlFlow/13_Loops/02_while_Loop.js
+// 

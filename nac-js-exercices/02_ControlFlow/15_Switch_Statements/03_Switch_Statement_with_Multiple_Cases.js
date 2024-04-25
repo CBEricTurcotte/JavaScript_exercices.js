@@ -3,23 +3,20 @@
 // Use a switch statement to log different messages based on the fruit.
 
 // Your code here
-let variableName = 'stringValue';
+let fruit = "apple";
 
 switch (fruit) {
-  case 'banana':
-    console.log('It\'s a banana.');
+  case "banana":
+    console.log("It's a banana.");
     break;
-  case 'apple':
-  case 'orange':
-    console.log('It\'s an apple or an orange.');
+  case "apple":
+  case "orange":
+    console.log("It's an apple or an orange.");
     break;
   default:
-    console.log('It\'s a different fruit.');
+    console.log("It's a different fruit.");
 }
 // Expected Output: It's an apple or an orange.
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

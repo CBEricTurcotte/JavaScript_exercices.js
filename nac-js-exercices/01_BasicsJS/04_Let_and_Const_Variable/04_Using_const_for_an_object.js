@@ -2,13 +2,10 @@
 // Declare a constant variable named 'person' and assign it an object with properties 'name' and 'age'.
 
 // Your code here
-const variableName = objectValue
+const person = { name: "Alice", age: 30 };
 
 console.log(person);
 // Expected Output: { name: 'Alice', age: 30 }
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

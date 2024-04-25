@@ -3,8 +3,8 @@
 // Use the ternary operator to set a variable 'takeUmbrella' to 'Take an umbrella' if it is raining and 'Enjoy the weather' otherwise.
 
 // Your code here
-let variableName1 = booleanValue
-let variableName2 = isRaining ? 'Take an umbrella' : 'Enjoy the weather';
+let isRaining = true
+let takeUmbrella = isRaining ? 'Take an umbrella' : 'Enjoy the weather';
 
 console.log(takeUmbrella);
 // Expected Output: Take an umbrella

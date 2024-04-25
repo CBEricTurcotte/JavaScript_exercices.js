@@ -2,15 +2,12 @@
 // Declare an arrow function named 'greetPerson' that takes a parameter 'first_name' and 'last_name' and returns a greeting message.
 
 // Your code here
-const functionName = (param1, last_name) => {
-  return 'Hello, ' + first_name + ' ' + param2 + '!';
+const greetPerson = (first_name, last_name) => {
+  return "Hello, " + first_name + " " + last_name + "!";
 };
 
-console.log(greetPerson('John', 'Doe'));
+console.log(greetPerson("John", "Doe"));
 // Expected Output: Hello, John Doe!
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

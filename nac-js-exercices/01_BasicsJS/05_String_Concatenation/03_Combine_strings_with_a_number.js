@@ -3,14 +3,11 @@
 // Create a message that says 'I have x apples.' by combining the string with the value of 'numApples'.
 
 // Your code here
-let variableName1 = numericValue
-let variableName2 = 'I have ' + numApples + ' apples.'
+let numApples = 5;
+let message = "I have " + numApples + " apples.";
 
 console.log(message);
 // Expected Output: I have 5 apples.
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

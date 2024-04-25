@@ -3,16 +3,13 @@
 // Use a switch statement with only a default case to log a message indicating it's an unknown animal.
 
 // Your code here
-let variableName = 'stringValue';
+let animal = "elephant";
 
 switch (animal) {
   default:
-    console.log('It\'s an unknown animal.');
+    console.log("It's an unknown animal.");
 }
 // Expected Output: It's an unknown animal.
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

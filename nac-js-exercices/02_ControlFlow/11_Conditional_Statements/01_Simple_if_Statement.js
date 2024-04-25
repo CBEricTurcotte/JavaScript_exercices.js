@@ -3,15 +3,12 @@
 // Use an if statement to check if it is raining, and if so, log 'Take an umbrella'.
 
 // Your code here
-let variableName = booleanValue
+let isRaining = true;
 
-if (variableName) {
-  console.log('Take an umbrella');
+if (isRaining) {
+  console.log("Take an umbrella");
 }
 // Expected Output: Take an umbrella
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

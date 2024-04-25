@@ -3,14 +3,11 @@
 // Use the ternary operator to set a variable 'weather' to 'Hot' if the temperature is greater than or equal to 30 and 'Warm' otherwise.
 
 // Your code here
-let variableName1 = numericValue
-let variableName2 = temperature >= 30 ? 'Hot' : 'Warm';
+let temperature = 28;
+let weather = temperature >= 30 ? "Hot" : "Warm";
 
 console.log(weather);
 // Expected Output: Warm
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

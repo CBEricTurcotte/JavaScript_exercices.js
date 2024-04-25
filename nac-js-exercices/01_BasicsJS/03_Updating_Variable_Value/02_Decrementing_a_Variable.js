@@ -3,14 +3,12 @@
 // Decrement its value by 5.
 
 // Your code here
-let variableName = numericValue
+let stock = 20;
+stock -= 5;
 // Update the variable value by decrementing it
 
 console.log(stock);
 // Expected Output: 15
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 

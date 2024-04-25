@@ -2,13 +2,10 @@
 // Declare a variable named 'undefinedVar' without assigning it a value.
 
 // Your code here
-let variableName;
+let undefinedVar;
 
 console.log(undefinedVar);
 // Expected Output: undefined
-
-
-
 
 // In the terminal, copy & paste the code below and run it to see the result in the console.
 
